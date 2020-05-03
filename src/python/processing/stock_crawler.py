@@ -1,0 +1,1 @@
+#there will be downloading current value of stock for polish market, devided into GPW and new connect
